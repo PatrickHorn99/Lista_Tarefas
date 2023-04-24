@@ -1,0 +1,2 @@
+# to-do-list
+ O projeto è uma lista de tarefas feito com HTML, CSS e JS. O objetivo deste projeto foi além de relembrar os conceitos de html/css, tambem buscar aprimorar os conhecimentos em JS. Neste projeto é possível adicionar e excluir tarefas, alem de é claro de mostrar após salvar. Para salvar utilizei dos recursos do LocalStorage para que assim mesmo recarregando a página ou ate mesmo desligando o computador, seria possível recuperar as tarefas armazenadas.
